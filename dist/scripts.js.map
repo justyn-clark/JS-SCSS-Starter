@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/js/app.js"],"names":[],"mappings":";;AAAA,IAAI,OAAO,SAAP,IAAoB,WAAxB,EAAqC;AACnC,MAAI,YAAY,EAAhB;AACD;AACD,QAAQ,GAAR,CAAY,SAAZ","file":"scripts.js","sourcesContent":["if (typeof nameSpace == \"undefined\") {\n  var nameSpace = {};\n}\nconsole.log(nameSpace);\n\n\n"]}
