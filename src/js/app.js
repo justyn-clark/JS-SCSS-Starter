@@ -1,4 +1,4 @@
-if (typeof nameSpace == "undefined") {
+if (typeof nameSpace === "undefined") {
   var nameSpace = {};
 }
 console.log(nameSpace);
